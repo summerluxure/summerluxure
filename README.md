@@ -5,10 +5,10 @@
 <h2>Contents</h2>
 
 <ul>
-	<li><a href="https://chat.openai.com/chat/2e5c0f38-da83-4656-ab6e-97158818cb05#seo-guide" target="_new">SEO Guide</a></li>
-	<li><a href="https://chat.openai.com/chat/2e5c0f38-da83-4656-ab6e-97158818cb05#ppc-templates" target="_new">PPC Templates</a></li>
-	<li><a href="https://chat.openai.com/chat/2e5c0f38-da83-4656-ab6e-97158818cb05#social-media-resources" target="_new">Social Media Resources</a></li>
-	<li><a href="https://chat.openai.com/chat/2e5c0f38-da83-4656-ab6e-97158818cb05#how-to-use-this-repository" target="_new">How to Use This Repository</a></li>
+	<li><a href="https://summerluxure.com#seo-guide" target="_new">SEO Guide</a></li>
+	<li><a href="https://summerluxure.com#ppc-templates" target="_new">PPC Templates</a></li>
+	<li><a href="https://summerluxure.com#social-media-resources" target="_new">Social Media Resources</a></li>
+	<li><a href="https://summerluxure.com#how-to-use-this-repository" target="_new">How to Use This Repository</a></li>
 </ul>
 
 <h2>SEO Guide</h2>
